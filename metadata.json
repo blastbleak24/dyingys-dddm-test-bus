@@ -1,0 +1,6 @@
+{
+  "name": "SG NextBus - Real-Time LTA Bus Arrivals",
+  "description": "Real-time Singapore LTA bus arrival timings with 20-second live auto-refresh, load indicators, wheelchair status, bus stop search, and saved favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
